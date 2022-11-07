@@ -15,7 +15,7 @@ print('hola soy marco')
 
 
 def saludar():
-    return 8
+    return "hola"
 
 
 print('pulleado')
