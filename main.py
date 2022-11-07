@@ -1,3 +1,3 @@
 
 def saludar():
-    return 3
+    return "hola"
