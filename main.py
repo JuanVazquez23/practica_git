@@ -1,3 +1,3 @@
 
 def saludar():
-    print('chau')
+    return 1
